@@ -12,6 +12,8 @@
   object-fit: cover;
 }
 
+
+
 p {
   animation: fadeIn 3s linear both;
   animation-timeline: view();
