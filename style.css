@@ -11,8 +11,15 @@
   width: 500px;
   object-fit: cover;
 }
-
-
+.first_page {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.first_page h1 {
+  margin: 0;
+}
 
 p {
   animation: fadeIn 3s linear both;
